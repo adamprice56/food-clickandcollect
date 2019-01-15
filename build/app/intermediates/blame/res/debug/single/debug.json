@@ -4,8 +4,20 @@
         "source": "D:\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\Flutter_Projects\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
         "source": "D:\\Flutter_Projects\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
     },
     {
         "merged": "C:\\Users\\user\\Downloads\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -24,8 +36,16 @@
         "source": "D:\\e-commerce\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
         "source": "D:\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
@@ -46,6 +66,10 @@
     {
         "merged": "D:\\e-commerce\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
         "source": "D:\\e-commerce\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\Flutter_Projects\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",

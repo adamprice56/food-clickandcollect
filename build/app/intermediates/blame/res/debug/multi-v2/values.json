@@ -1,6 +1,30 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\adam\\StudioProjects\\food-clickandcollect\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "353"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "D:\\Flutter_Projects\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
